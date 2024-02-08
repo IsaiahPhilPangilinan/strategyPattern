@@ -8,12 +8,12 @@ Suppose we have three types of characters in a GameApp:
 
 Implement two types of Strategy:
 
-  A. DefenseStrategy
+A. DefenseStrategy
 - Shield
 - Dodge
 - CreateMagic
 
-  B. AttackStrategy
+B. AttackStrategy
 - CastSpell
 - ShootArrow
 - SwingSword 
