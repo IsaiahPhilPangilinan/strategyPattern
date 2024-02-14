@@ -17,3 +17,6 @@ B. AttackStrategy
 - CastSpell
 - ShootArrow
 - SwingSword 
+
+# UML Diagram
+![Strategy Pattern Diagram](https://github.com/IsaiahPhilPangilinan/strategyPattern/assets/126074199/a1665756-3041-40b1-b55d-f8f1cd01199c)
